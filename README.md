@@ -1,9 +1,6 @@
 # Calculator
 A GUI based calculator application built with Python.
 
-## Screenshot
-![demo](../assets/screenshot/1.png?raw=true)
-
 ## Prerequisites
   `Python3`
   `Qt5`
